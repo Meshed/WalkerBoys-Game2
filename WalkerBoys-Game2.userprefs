@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scriptAstroid.cs">
+    <Files>
+      <File FileName="Assets\scriptSceneManager.cs" Line="5" Column="27" />
+      <File FileName="Assets\scriptScreenMainMenu.cs" Line="32" Column="1" />
+      <File FileName="Assets\scriptScreenLoad.cs" Line="30" Column="1" />
+      <File FileName="Assets\scriptScreenCredit.cs" Line="5" Column="1" />
+      <File FileName="Assets\scriptScreenLose.cs" Line="12" Column="1" />
+      <File FileName="Assets\scriptScreenWin.cs" Line="11" Column="1" />
+      <File FileName="Assets\scriptPlayer.cs" Line="29" Column="1" />
+      <File FileName="Assets\scriptShield.cs" Line="21" Column="1" />
+      <File FileName="Assets\scriptAstroid.cs" Line="32" Column="1" />
+      <File FileName="Assets\scriptBullet.cs" Line="39" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
